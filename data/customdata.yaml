@@ -1,0 +1,5 @@
+train: ../datasets/images/train/  # Eğitim görüntüleri
+val: ../datasets/images/val/  # Doğrulama görüntüleri
+
+nc: 16  # Sınıf sayısı
+names: ['iha', 'iha', 'iha', 'iha', 'iha', 'iha', 'iha', 'iha', 'iha', 'iha', 'iha', 'iha', 'iha', 'iha', 'iha', 'iha']  # Sınıf isimleri
